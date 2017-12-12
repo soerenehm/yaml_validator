@@ -4,4 +4,4 @@
  
 Validates yaml file as argument.
 
-# work in progess
+# work in progress
